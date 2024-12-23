@@ -21,4 +21,8 @@ usar props e children
 Usando UseState
 ### const [state, setState] = useState(initialState)
 O useEffect é um Hook do React usado para executar efeitos colaterais em componentes
+<<<<<<< HEAD
 ### https://react.dev/reference/react/useEffect
+=======
+### https://react.dev/reference/react/useEffect
+>>>>>>> f19e98cd56ff40964703c5c57bdc1c45c258e8d0
